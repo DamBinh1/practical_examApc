@@ -1,0 +1,8 @@
+D:\fap\Apc\practical_examApc\practical_examApc\bin\Debug\practical_examApc.exe.config
+D:\fap\Apc\practical_examApc\practical_examApc\bin\Debug\practical_examApc.exe
+D:\fap\Apc\practical_examApc\practical_examApc\bin\Debug\practical_examApc.pdb
+D:\fap\Apc\practical_examApc\practical_examApc\obj\Debug\practical_examApc.csproj.AssemblyReference.cache
+D:\fap\Apc\practical_examApc\practical_examApc\obj\Debug\practical_examApc.csproj.SuggestedBindingRedirects.cache
+D:\fap\Apc\practical_examApc\practical_examApc\obj\Debug\practical_examApc.csproj.CoreCompileInputs.cache
+D:\fap\Apc\practical_examApc\practical_examApc\obj\Debug\practical_examApc.exe
+D:\fap\Apc\practical_examApc\practical_examApc\obj\Debug\practical_examApc.pdb

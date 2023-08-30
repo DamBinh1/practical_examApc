@@ -1,0 +1,8 @@
+D:\fap\Apc\practical_examApc\GeometryExample\bin\Debug\GeometryExample.exe.config
+D:\fap\Apc\practical_examApc\GeometryExample\bin\Debug\GeometryExample.exe
+D:\fap\Apc\practical_examApc\GeometryExample\bin\Debug\GeometryExample.pdb
+D:\fap\Apc\practical_examApc\GeometryExample\obj\Debug\GeometryExample.csproj.AssemblyReference.cache
+D:\fap\Apc\practical_examApc\GeometryExample\obj\Debug\GeometryExample.csproj.SuggestedBindingRedirects.cache
+D:\fap\Apc\practical_examApc\GeometryExample\obj\Debug\GeometryExample.csproj.CoreCompileInputs.cache
+D:\fap\Apc\practical_examApc\GeometryExample\obj\Debug\GeometryExample.exe
+D:\fap\Apc\practical_examApc\GeometryExample\obj\Debug\GeometryExample.pdb

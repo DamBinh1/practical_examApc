@@ -1,0 +1,8 @@
+D:\fap\Apc\practical_examApc\Exercise2\bin\Debug\Exercise2.exe.config
+D:\fap\Apc\practical_examApc\Exercise2\bin\Debug\Exercise2.exe
+D:\fap\Apc\practical_examApc\Exercise2\bin\Debug\Exercise2.pdb
+D:\fap\Apc\practical_examApc\Exercise2\obj\Debug\Exercise2.csproj.AssemblyReference.cache
+D:\fap\Apc\practical_examApc\Exercise2\obj\Debug\Exercise2.csproj.SuggestedBindingRedirects.cache
+D:\fap\Apc\practical_examApc\Exercise2\obj\Debug\Exercise2.csproj.CoreCompileInputs.cache
+D:\fap\Apc\practical_examApc\Exercise2\obj\Debug\Exercise2.exe
+D:\fap\Apc\practical_examApc\Exercise2\obj\Debug\Exercise2.pdb

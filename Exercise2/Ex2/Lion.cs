@@ -4,9 +4,9 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace practical_examApc.Exercise2
+namespace Exercise2.Ex2
 {
-    public class Lion:Animal
+    public class Lion : Animal
     {
         public Lion(double weight, string name)
         {
@@ -16,7 +16,7 @@ namespace practical_examApc.Exercise2
         public override void Show()
         {
             base.Show();
-            
+
         }
     }
 }

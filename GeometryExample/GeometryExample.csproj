@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{42C7661D-5CB8-42BC-972C-E90ABB28E729}</ProjectGuid>
+    <ProjectGuid>{22836F56-F093-46FD-9B91-BEFE5A63F86B}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>practical_examApc</RootNamespace>
-    <AssemblyName>practical_examApc</AssemblyName>
+    <RootNamespace>GeometryExample</RootNamespace>
+    <AssemblyName>GeometryExample</AssemblyName>
     <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
@@ -43,16 +43,12 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Exercise2\Animal.cs" />
-    <Compile Include="Exercise2\Lion.cs" />
-    <Compile Include="Exercise2\Tiger.cs" />
-    <Compile Include="GeometryExample\Cylinder.cs" />
+    <Compile Include="Ex1\Cylinder.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
   </ItemGroup>
-  <ItemGroup />
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>

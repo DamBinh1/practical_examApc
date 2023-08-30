@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace practical_examApc.GeometryExample
+namespace GeometryExample.Ex1
 {
     public class Cylinder
     {
@@ -29,7 +29,7 @@ namespace practical_examApc.GeometryExample
         public string Result()
         {
             return $"Cylinder Characteristics:\n" +
-                   $"Radius: {Radius }  ; " + $"Height: {Radius}\n"+
+                   $"Radius: {Radius}  ; " + $"Height: {Radius}\n" +
                    $"Base: {BaseArea:F2} ; " +
                    $"Lateral: {LateralArea:F2} ; " +
                    $"Total: {TotalArea:F2} ; " +
@@ -37,3 +37,4 @@ namespace practical_examApc.GeometryExample
         }
     }
 }
+
